@@ -1,4 +1,4 @@
-# codeforces-dataset
+# CodeForces dataset
 Collected sollutions from codeforces.com.
 
 Each contest is in individual file with coresponding ID (https://codeforces.com/contest/<ID>) in contests folder.
